@@ -34,8 +34,8 @@ It closely replicates the look and feel of Amazon’s homepage using clean and s
 
 ## 📂 Project Structure
 Amazon-UI-Clone/
-│── project.html
-│── project.css
+│── index.html
+│── style.css
 │── images/
 │── README.md
 
